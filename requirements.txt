@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.1
+Flask==1.1.2
+request==2019.4.13
+
