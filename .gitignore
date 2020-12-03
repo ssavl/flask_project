@@ -5,7 +5,7 @@ config.py
 *__pycache__
 *._*
 *.log
-
+.models.py.swp
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
